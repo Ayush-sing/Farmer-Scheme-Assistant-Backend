@@ -60,12 +60,6 @@ A modern AI-powered web app that helps Indian farmers discover relevant **govern
 
 ---
 
-## Screenshots
-
-![Uploading Screenshot 2026-01-16 072322.png…]()
-
-
----
 ## ✅ API Endpoints
 
 ### `POST /analyze`
