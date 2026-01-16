@@ -1,0 +1,1846 @@
+[
+  {
+    "scheme_name": "Sub-Mission on Agricultural Mechanization (SMAM)",
+    "summary": "Supports farm mechanization and promotes use of farm machinery through subsidies and assistance.",
+    "eligibility": "Farmers (varies by state guidelines)",
+    "benefits": "Subsidy/assistance for farm machinery including tractors/implements (as per norms)",
+    "tags": [
+      "machinery",
+      "tractor",
+      "equipment",
+      "mechanization"
+    ],
+    "state": null,
+    "official_link": "https://agrimachinery.nic.in/",
+    "source": "agrimachinery.nic.in"
+  },
+  {
+    "scheme_name": "Kisan Credit Card (KCC)",
+    "summary": "Provides farmers with timely credit for agriculture and allied activities.",
+    "eligibility": "Farmers including small and marginal (as per banking norms)",
+    "benefits": "Short-term credit/loan at concessional rates (subject to conditions)",
+    "tags": [
+      "loan",
+      "credit",
+      "finance"
+    ],
+    "state": null,
+    "official_link": "https://www.nabard.org/",
+    "source": "nabard"
+  },
+  {
+    "scheme_name": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+    "summary": "Crop insurance scheme to protect farmers against crop losses.",
+    "eligibility": "Farmers growing notified crops in notified areas",
+    "benefits": "Insurance coverage against yield losses",
+    "tags": [
+      "insurance",
+      "risk",
+      "crop loss"
+    ],
+    "state": null,
+    "official_link": "https://pmfby.gov.in/",
+    "source": "pmfby.gov.in"
+  },
+  {
+    "scheme_name": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
+    "summary": "Income support scheme providing financial assistance to eligible farmer families.",
+    "eligibility": "Eligible farmer families (as per scheme rules)",
+    "benefits": "₹6000/year in 3 installments",
+    "tags": [
+      "income support",
+      "small farmers"
+    ],
+    "state": null,
+    "official_link": "https://pmkisan.gov.in/",
+    "source": "pmkisan.gov.in"
+  },
+  {
+    "scheme_name": "Pradhan Mantri Krishi Sinchayee Yojana (PMKSY)",
+    "summary": "Improves farm irrigation coverage and water-use efficiency.",
+    "eligibility": "Farmers (as per state implementation guidelines)",
+    "benefits": "Support for irrigation infrastructure, micro-irrigation, watershed development",
+    "tags": [
+      "irrigation",
+      "water",
+      "micro irrigation",
+      "drip"
+    ],
+    "state": null,
+    "official_link": "https://pmksy.gov.in/",
+    "source": "pmksy.gov.in"
+  },
+  {
+    "scheme_name": "Agricultural Infrastructure Fund (AIF)",
+    "summary": "Provides financing support for building post-harvest and community farming assets.",
+    "eligibility": "Farmers, FPOs, agri-entrepreneurs, cooperatives (as per guidelines)",
+    "benefits": "Interest subvention and credit guarantee support for infrastructure projects",
+    "tags": [
+      "infrastructure",
+      "warehouse",
+      "cold storage",
+      "loan",
+      "post-harvest"
+    ],
+    "state": null,
+    "official_link": "https://agriinfra.dac.gov.in/",
+    "source": "agriinfra.dac.gov.in"
+  },
+  {
+    "scheme_name": "National Mission for Sustainable Agriculture (NMSA)",
+    "summary": "Promotes sustainable farming practices and climate-resilient agriculture.",
+    "eligibility": "Farmers (program-based implementation)",
+    "benefits": "Support for soil health, water conservation, climate-smart practices",
+    "tags": [
+      "sustainable",
+      "climate",
+      "soil",
+      "water"
+    ],
+    "state": null,
+    "official_link": "https://nmsa.dac.gov.in/",
+    "source": "nmsa.dac.gov.in"
+  },
+  {
+    "scheme_name": "Paramparagat Krishi Vikas Yojana (PKVY)",
+    "summary": "Promotes organic farming through cluster approach and certification support.",
+    "eligibility": "Farmers willing to adopt organic practices",
+    "benefits": "Support for organic inputs, certification, training",
+    "tags": [
+      "organic",
+      "certification",
+      "cluster"
+    ],
+    "state": null,
+    "official_link": "https://pgsindia-ncof.gov.in/PKVY/",
+    "source": "pgsindia-ncof.gov.in"
+  },
+  {
+    "scheme_name": "Pradhan Mantri Kisan MaanDhan Yojana (PM-KMY)",
+    "summary": "Pension scheme for small and marginal farmers.",
+    "eligibility": "Small and marginal farmers meeting scheme criteria",
+    "benefits": "Monthly pension after age threshold (as per scheme rules)",
+    "tags": [
+      "pension",
+      "small farmers",
+      "social security"
+    ],
+    "state": null,
+    "official_link": "https://maandhan.in/",
+    "source": "maandhan.in"
+  },
+  {
+    "scheme_name": "Pradhan Mantri Annadata Aay Sanrakshan Abhiyan (PM-AASHA)",
+    "summary": "Support for farmers to ensure remunerative prices for crops.",
+    "eligibility": "Farmers producing notified crops (as per implementation)",
+    "benefits": "Price support, procurement and deficiency payment mechanisms",
+    "tags": [
+      "price support",
+      "procurement",
+      "market"
+    ],
+    "state": null,
+    "official_link": "https://dmi.gov.in/",
+    "source": "dmi.gov.in"
+  },
+  {
+    "scheme_name": "e-NAM (National Agriculture Market)",
+    "summary": "Online trading platform linking agricultural markets for better price discovery.",
+    "eligibility": "Farmers and traders via participating mandis",
+    "benefits": "Better market access, price transparency",
+    "tags": [
+      "market",
+      "trading",
+      "mandi",
+      "price"
+    ],
+    "state": null,
+    "official_link": "https://www.enam.gov.in/",
+    "source": "enam.gov.in"
+  },
+  {
+    "scheme_name": "Rashtriya Krishi Vikas Yojana (RKVY-RAFTAAR)",
+    "summary": "Supports state-led agriculture development and innovation.",
+    "eligibility": "State agriculture departments; farmers benefit through programs",
+    "benefits": "Funding for projects in productivity, infrastructure, innovation",
+    "tags": [
+      "state projects",
+      "innovation",
+      "productivity"
+    ],
+    "state": null,
+    "official_link": "https://rkvy.nic.in/",
+    "source": "rkvy.nic.in"
+  },
+  {
+    "scheme_name": "Mission for Integrated Development of Horticulture (MIDH)",
+    "summary": "Supports holistic growth of horticulture sector including fruits and vegetables.",
+    "eligibility": "Farmers, groups, FPOs (as per guidelines)",
+    "benefits": "Assistance for planting material, drip, training, infrastructure",
+    "tags": [
+      "horticulture",
+      "vegetables",
+      "fruits",
+      "nursery"
+    ],
+    "state": null,
+    "official_link": "https://midh.gov.in/",
+    "source": "midh.gov.in"
+  },
+  {
+    "scheme_name": "National Food Security Mission (NFSM)",
+    "summary": "Increases production of rice, wheat, pulses, coarse cereals through interventions.",
+    "eligibility": "Farmers in notified districts/areas",
+    "benefits": "Support for seeds, demonstrations, inputs",
+    "tags": [
+      "food security",
+      "pulses",
+      "rice",
+      "wheat",
+      "seeds"
+    ],
+    "state": null,
+    "official_link": "https://nfsm.gov.in/",
+    "source": "nfsm.gov.in"
+  },
+  {
+    "scheme_name": "Soil Health Card Scheme",
+    "summary": "Provides soil testing and recommendations for balanced nutrient use.",
+    "eligibility": "Farmers",
+    "benefits": "Soil health card with fertilizer recommendations",
+    "tags": [
+      "soil test",
+      "fertilizer",
+      "nutrients"
+    ],
+    "state": null,
+    "official_link": "https://soilhealth.dac.gov.in/",
+    "source": "soilhealth.dac.gov.in"
+  },
+  {
+    "scheme_name": "Neem Coated Urea Scheme",
+    "summary": "Improves fertilizer efficiency and reduces diversion of urea.",
+    "eligibility": "Farmers using urea fertilizer",
+    "benefits": "Better nitrogen use efficiency and crop yield support",
+    "tags": [
+      "fertilizer",
+      "urea",
+      "productivity"
+    ],
+    "state": null,
+    "official_link": "https://www.indiachemicalcouncil.com/",
+    "source": "public_info"
+  },
+  {
+    "scheme_name": "PM KUSUM (Pradhan Mantri Kisan Urja Suraksha evam Utthaan Mahabhiyan)",
+    "summary": "Supports solar pumps and renewable energy for farmers.",
+    "eligibility": "Farmers (as per state implementation)",
+    "benefits": "Solar irrigation pumps, solarization of feeders, extra income via solar",
+    "tags": [
+      "solar",
+      "pump",
+      "energy",
+      "electricity"
+    ],
+    "state": null,
+    "official_link": "https://pmkusum.mnre.gov.in/",
+    "source": "pmkusum.mnre.gov.in"
+  },
+  {
+    "scheme_name": "PM Formalisation of Micro Food Processing Enterprises (PMFME)",
+    "summary": "Supports micro food processing units with credit-linked subsidy.",
+    "eligibility": "Individuals, SHGs, FPOs, cooperatives in food processing",
+    "benefits": "Credit-linked subsidy, training, branding",
+    "tags": [
+      "food processing",
+      "micro enterprise",
+      "subsidy"
+    ],
+    "state": null,
+    "official_link": "https://pmfme.mofpi.gov.in/",
+    "source": "pmfme.mofpi.gov.in"
+  },
+  {
+    "scheme_name": "National Livestock Mission (NLM)",
+    "summary": "Promotes sustainable livestock development and entrepreneurship.",
+    "eligibility": "Farmers/entrepreneurs as per components",
+    "benefits": "Support for fodder, breed improvement, entrepreneurship",
+    "tags": [
+      "livestock",
+      "fodder",
+      "dairy",
+      "goatery"
+    ],
+    "state": null,
+    "official_link": "https://nlm.udyamimitra.in/",
+    "source": "nlm.udyamimitra.in"
+  },
+  {
+    "scheme_name": "Rashtriya Gokul Mission",
+    "summary": "Improves indigenous cattle breeds and milk productivity.",
+    "eligibility": "Farmers, breeders, dairy sector stakeholders",
+    "benefits": "Breed improvement programs, infrastructure support",
+    "tags": [
+      "cattle",
+      "dairy",
+      "breeding"
+    ],
+    "state": null,
+    "official_link": "https://dahd.nic.in/",
+    "source": "dahd.nic.in"
+  },
+  {
+    "scheme_name": "National Dairy Plan (NDP)",
+    "summary": "Enhances milk production and dairy infrastructure in the country.",
+    "eligibility": "Dairy cooperatives, farmers via programs",
+    "benefits": "Productivity improvement and infrastructure development",
+    "tags": [
+      "dairy",
+      "milk",
+      "infrastructure"
+    ],
+    "state": null,
+    "official_link": "https://www.nddb.coop/",
+    "source": "nddb.coop"
+  },
+  {
+    "scheme_name": "Pradhan Mantri Matsya Sampada Yojana (PMMSY)",
+    "summary": "Boosts fisheries and aquaculture development.",
+    "eligibility": "Fishers, fish farmers, entrepreneurs",
+    "benefits": "Infrastructure, productivity, cold chain support",
+    "tags": [
+      "fisheries",
+      "aquaculture",
+      "cold chain"
+    ],
+    "state": null,
+    "official_link": "https://pmmsy.dof.gov.in/",
+    "source": "pmmsy.dof.gov.in"
+  },
+  {
+    "scheme_name": "National Mission on Edible Oils – Oil Palm (NMEO-OP)",
+    "summary": "Promotes edible oil production including oil palm expansion.",
+    "eligibility": "Farmers in suitable areas",
+    "benefits": "Support for planting material, maintenance, processing",
+    "tags": [
+      "oil palm",
+      "edible oil",
+      "horticulture"
+    ],
+    "state": null,
+    "official_link": "https://nmeo.dac.gov.in/",
+    "source": "nmeo.dac.gov.in"
+  },
+  {
+    "scheme_name": "National Beekeeping & Honey Mission (NBHM)",
+    "summary": "Promotes scientific beekeeping and honey production.",
+    "eligibility": "Beekeepers, farmers, FPOs",
+    "benefits": "Training, infrastructure support, market linkage",
+    "tags": [
+      "beekeeping",
+      "honey",
+      "apiculture"
+    ],
+    "state": null,
+    "official_link": "https://nbb.gov.in/",
+    "source": "nbb.gov.in"
+  },
+  {
+    "scheme_name": "National Agriculture Higher Education Project (NAHEP)",
+    "summary": "Strengthens agricultural higher education and research institutions.",
+    "eligibility": "Institutions (indirect farmer benefits)",
+    "benefits": "Capacity building, research improvement",
+    "tags": [
+      "education",
+      "research"
+    ],
+    "state": null,
+    "official_link": "https://nahep.icar.gov.in/",
+    "source": "icar.gov.in"
+  },
+  {
+    "scheme_name": "Pradhan Mantri Gram Sadak Yojana (PMGSY)",
+    "summary": "Improves rural road connectivity supporting farm-to-market movement.",
+    "eligibility": "Rural communities (indirect farmer benefit)",
+    "benefits": "All-weather rural roads improving market access",
+    "tags": [
+      "roads",
+      "transport",
+      "market access"
+    ],
+    "state": null,
+    "official_link": "https://pmgsy.nic.in/",
+    "source": "pmgsy.nic.in"
+  },
+  {
+    "scheme_name": "FPO Formation & Promotion Scheme (10,000 FPOs)",
+    "summary": "Supports formation and strengthening of Farmer Producer Organisations.",
+    "eligibility": "Farmer groups forming FPOs",
+    "benefits": "Handholding, financial assistance, market linkage support",
+    "tags": [
+      "FPO",
+      "collective farming",
+      "market linkage"
+    ],
+    "state": null,
+    "official_link": "https://sfacindia.com/",
+    "source": "sfacindia.com"
+  },
+  {
+    "scheme_name": "Interest Subvention Scheme for Short Term Crop Loans",
+    "summary": "Provides interest subvention for farmers on short-term crop loans.",
+    "eligibility": "Farmers taking short term crop loans",
+    "benefits": "Reduced interest rates / interest subvention (as per rules)",
+    "tags": [
+      "loan",
+      "interest subvention",
+      "credit"
+    ],
+    "state": null,
+    "official_link": "https://financialservices.gov.in/",
+    "source": "financialservices.gov.in"
+  },
+  {
+    "scheme_name": "National Mission on Natural Farming (NMNF)",
+    "summary": "Promotes chemical-free natural farming practices.",
+    "eligibility": "Farmers willing to adopt natural farming",
+    "benefits": "Training and support for natural inputs and practices",
+    "tags": [
+      "natural farming",
+      "chemical-free",
+      "sustainable"
+    ],
+    "state": null,
+    "official_link": "https://nmeo.dac.gov.in/",
+    "source": "dac.gov.in"
+  },
+  {
+    "scheme_name": "Gramin Bhandaran Yojana (Rural Godown Scheme)",
+    "summary": "Supports construction and modernization of rural storage infrastructure.",
+    "eligibility": "Farmers, cooperatives, entrepreneurs (as per norms)",
+    "benefits": "Credit-linked assistance for storage/godown creation",
+    "tags": [
+      "storage",
+      "warehouse",
+      "post-harvest"
+    ],
+    "state": null,
+    "official_link": "https://dmi.gov.in/",
+    "source": "dmi.gov.in"
+  },
+  {
+    "scheme_name": "Weather Based Crop Insurance Scheme (WBCIS)",
+    "summary": "Insurance against adverse weather conditions affecting crops.",
+    "eligibility": "Farmers in notified areas/crops",
+    "benefits": "Weather-index based insurance claims",
+    "tags": [
+      "insurance",
+      "weather",
+      "risk"
+    ],
+    "state": null,
+    "official_link": "https://pmfby.gov.in/",
+    "source": "pmfby.gov.in"
+  },
+  {
+    "scheme_name": "National Mission on Agriculture Extension & Technology (NMAET)",
+    "summary": "Strengthens agriculture extension, mechanization support and technology transfer.",
+    "eligibility": "Farmers via extension programs",
+    "benefits": "Training, demonstrations, tech support",
+    "tags": [
+      "extension",
+      "training",
+      "technology"
+    ],
+    "state": null,
+    "official_link": "https://agricoop.nic.in/",
+    "source": "agricoop.nic.in"
+  },
+  {
+    "scheme_name": "PM Suraksha Bima Yojana (PMSBY)",
+    "summary": "Accident insurance scheme at affordable premium.",
+    "eligibility": "Bank account holders meeting criteria",
+    "benefits": "Accident insurance cover (as per policy)",
+    "tags": [
+      "insurance",
+      "accident",
+      "social security"
+    ],
+    "state": null,
+    "official_link": "https://financialservices.gov.in/",
+    "source": "financialservices.gov.in"
+  },
+  {
+    "scheme_name": "PM Jeevan Jyoti Bima Yojana (PMJJBY)",
+    "summary": "Life insurance scheme at affordable premium.",
+    "eligibility": "Bank account holders meeting criteria",
+    "benefits": "Life insurance cover (as per policy)",
+    "tags": [
+      "insurance",
+      "life insurance",
+      "social security"
+    ],
+    "state": null,
+    "official_link": "https://financialservices.gov.in/",
+    "source": "financialservices.gov.in"
+  },
+  {
+    "scheme_name": "Pradhan Mantri Kisan Udan Scheme",
+    "summary": "Supports air transportation of perishable agricultural and fisheries produce to improve market access.",
+    "eligibility": "Farmers, exporters, FPOs, logistics stakeholders (indirect farmer benefit)",
+    "benefits": "Improved logistics and faster access to markets",
+    "tags": [
+      "logistics",
+      "export",
+      "perishable",
+      "air transport"
+    ],
+    "state": null,
+    "official_link": "https://www.civilaviation.gov.in/",
+    "source": "civilaviation.gov.in"
+  },
+  {
+    "scheme_name": "Operation Greens",
+    "summary": "Stabilizes prices of selected horticulture crops and supports value chain development.",
+    "eligibility": "Farmers, FPOs, agri supply chain stakeholders",
+    "benefits": "Support for storage, processing and transport of horticulture produce",
+    "tags": [
+      "horticulture",
+      "price stabilization",
+      "value chain"
+    ],
+    "state": null,
+    "official_link": "https://mofpi.gov.in/",
+    "source": "mofpi.gov.in"
+  },
+  {
+    "scheme_name": "PM SAMPADA (Agro-Marine Processing and Development of Agro-Processing Clusters)",
+    "summary": "Supports food processing infrastructure and agro-processing clusters.",
+    "eligibility": "Entrepreneurs, FPOs, cooperatives, SHGs (as per guidelines)",
+    "benefits": "Infrastructure grants and support for processing",
+    "tags": [
+      "food processing",
+      "infrastructure",
+      "clusters"
+    ],
+    "state": null,
+    "official_link": "https://mofpi.gov.in/",
+    "source": "mofpi.gov.in"
+  },
+  {
+    "scheme_name": "Mega Food Parks Scheme",
+    "summary": "Enables establishment of mega food parks to provide processing and storage facilities.",
+    "eligibility": "Food processing units, entrepreneurs (indirect farmer benefit)",
+    "benefits": "Common infrastructure and processing ecosystem",
+    "tags": [
+      "food parks",
+      "processing",
+      "storage"
+    ],
+    "state": null,
+    "official_link": "https://mofpi.gov.in/",
+    "source": "mofpi.gov.in"
+  },
+  {
+    "scheme_name": "Scheme for Cold Chain and Value Addition Infrastructure",
+    "summary": "Supports integrated cold chain and preservation infrastructure.",
+    "eligibility": "Entrepreneurs, cooperatives, FPOs (indirect farmer benefit)",
+    "benefits": "Grants for cold storage, transport, value addition",
+    "tags": [
+      "cold chain",
+      "cold storage",
+      "post-harvest"
+    ],
+    "state": null,
+    "official_link": "https://mofpi.gov.in/",
+    "source": "mofpi.gov.in"
+  },
+  {
+    "scheme_name": "Scheme for Creation/Expansion of Food Processing & Preservation Capacities",
+    "summary": "Supports units for processing and preservation of agricultural produce.",
+    "eligibility": "Micro/small food processing enterprises",
+    "benefits": "Capacity expansion assistance (as per guidelines)",
+    "tags": [
+      "processing",
+      "preservation",
+      "value addition"
+    ],
+    "state": null,
+    "official_link": "https://mofpi.gov.in/",
+    "source": "mofpi.gov.in"
+  },
+  {
+    "scheme_name": "National Horticulture Board (NHB) Development Schemes",
+    "summary": "Promotes integrated development of horticulture through financial assistance.",
+    "eligibility": "Farmers, entrepreneurs (as per NHB schemes)",
+    "benefits": "Assistance for horticulture projects, post-harvest management",
+    "tags": [
+      "horticulture",
+      "post-harvest",
+      "subsidy"
+    ],
+    "state": null,
+    "official_link": "https://nhb.gov.in/",
+    "source": "nhb.gov.in"
+  },
+  {
+    "scheme_name": "National Bamboo Mission (NBM)",
+    "summary": "Promotes bamboo cultivation, processing and value chain development.",
+    "eligibility": "Farmers, entrepreneurs, FPOs",
+    "benefits": "Support for plantation, nurseries, processing units",
+    "tags": [
+      "bamboo",
+      "plantation",
+      "processing"
+    ],
+    "state": null,
+    "official_link": "https://nbm.nic.in/",
+    "source": "nbm.nic.in"
+  },
+  {
+    "scheme_name": "PM Awaas Yojana - Gramin (PMAY-G)",
+    "summary": "Provides housing support in rural areas (indirect support for farmers).",
+    "eligibility": "Eligible rural households",
+    "benefits": "Financial assistance for rural housing",
+    "tags": [
+      "housing",
+      "rural",
+      "social support"
+    ],
+    "state": null,
+    "official_link": "https://pmayg.nic.in/",
+    "source": "pmayg.nic.in"
+  },
+  {
+    "scheme_name": "National Rural Livelihoods Mission (DAY-NRLM)",
+    "summary": "Promotes SHGs and livelihoods including agriculture allied activities.",
+    "eligibility": "Rural households, SHGs",
+    "benefits": "Capacity building, finance linkage, livelihood support",
+    "tags": [
+      "SHG",
+      "livelihood",
+      "rural"
+    ],
+    "state": null,
+    "official_link": "https://aajeevika.gov.in/",
+    "source": "aajeevika.gov.in"
+  },
+  {
+    "scheme_name": "Deen Dayal Upadhyaya Grameen Kaushalya Yojana (DDU-GKY)",
+    "summary": "Skill development for rural youth for better employment and incomes.",
+    "eligibility": "Rural youth",
+    "benefits": "Training and placement support",
+    "tags": [
+      "skills",
+      "training",
+      "rural youth"
+    ],
+    "state": null,
+    "official_link": "https://ddugky.gov.in/",
+    "source": "ddugky.gov.in"
+  },
+  {
+    "scheme_name": "Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)",
+    "summary": "Provides rural employment and supports water/land development works.",
+    "eligibility": "Rural households willing to do manual work",
+    "benefits": "Wage employment + asset creation in villages",
+    "tags": [
+      "employment",
+      "water conservation",
+      "rural works"
+    ],
+    "state": null,
+    "official_link": "https://nrega.nic.in/",
+    "source": "nrega.nic.in"
+  },
+  {
+    "scheme_name": "Pradhan Mantri Jan Arogya Yojana (PM-JAY)",
+    "summary": "Health insurance coverage for eligible families (indirect farmer benefit).",
+    "eligibility": "Eligible households as per SECC/criteria",
+    "benefits": "Health insurance cover for hospitalization",
+    "tags": [
+      "health",
+      "insurance",
+      "ayushman"
+    ],
+    "state": null,
+    "official_link": "https://pmjay.gov.in/",
+    "source": "pmjay.gov.in"
+  },
+  {
+    "scheme_name": "PM Garib Kalyan Anna Yojana (PMGKAY)",
+    "summary": "Provides free food grains for eligible households (indirect farmer benefit).",
+    "eligibility": "NFSA beneficiaries",
+    "benefits": "Food grain support",
+    "tags": [
+      "food security",
+      "ration"
+    ],
+    "state": null,
+    "official_link": "https://nfsa.gov.in/",
+    "source": "nfsa.gov.in"
+  },
+  {
+    "scheme_name": "National Mission on Oilseeds and Oil Palm (NMOOP)",
+    "summary": "Supports development of oilseeds and oil palm sector.",
+    "eligibility": "Farmers in notified areas",
+    "benefits": "Support for inputs, seeds, demonstration",
+    "tags": [
+      "oilseeds",
+      "oil palm",
+      "inputs"
+    ],
+    "state": null,
+    "official_link": "https://dac.gov.in/",
+    "source": "dac.gov.in"
+  },
+  {
+    "scheme_name": "National Mission on Agricultural Mechanization (legacy NMAET component)",
+    "summary": "Mechanization support through training and demonstrations (program-level).",
+    "eligibility": "Farmers via extension programs",
+    "benefits": "Awareness, demonstration and technology adoption",
+    "tags": [
+      "mechanization",
+      "training",
+      "extension"
+    ],
+    "state": null,
+    "official_link": "https://agrimachinery.nic.in/",
+    "source": "agrimachinery.nic.in"
+  },
+  {
+    "scheme_name": "National Project on Soil Health and Fertility",
+    "summary": "Improves soil health management and fertilizer use efficiency.",
+    "eligibility": "Farmers (via soil testing and advisory programs)",
+    "benefits": "Soil analysis and nutrient recommendations",
+    "tags": [
+      "soil",
+      "fertility",
+      "nutrients"
+    ],
+    "state": null,
+    "official_link": "https://soilhealth.dac.gov.in/",
+    "source": "soilhealth.dac.gov.in"
+  },
+  {
+    "scheme_name": "Pradhan Mantri Kisan Sampada Yojana (SAMPADA) - Integrated Cold Chain component",
+    "summary": "Provides infrastructure support for farm produce preservation and processing.",
+    "eligibility": "Entrepreneurs/FPOs/cooperatives",
+    "benefits": "Cold chain infrastructure grants",
+    "tags": [
+      "cold chain",
+      "processing",
+      "infrastructure"
+    ],
+    "state": null,
+    "official_link": "https://mofpi.gov.in/",
+    "source": "mofpi.gov.in"
+  },
+  {
+    "scheme_name": "Animal Husbandry Infrastructure Development Fund (AHIDF)",
+    "summary": "Supports investment in dairy processing, meat processing and animal feed plants.",
+    "eligibility": "Farmers, FPOs, MSMEs, cooperatives (as per guidelines)",
+    "benefits": "Credit support and incentives for infrastructure",
+    "tags": [
+      "dairy",
+      "animal husbandry",
+      "infrastructure",
+      "loan"
+    ],
+    "state": null,
+    "official_link": "https://ahidf.udyamimitra.in/",
+    "source": "ahidf.udyamimitra.in"
+  },
+  {
+    "scheme_name": "Dairy Entrepreneurship Development Scheme (DEDS)",
+    "summary": "Supports entrepreneurship in dairy sector (commonly known scheme).",
+    "eligibility": "Farmers/entrepreneurs (as per norms)",
+    "benefits": "Assistance/subsidy for dairy entrepreneurship",
+    "tags": [
+      "dairy",
+      "entrepreneurship",
+      "subsidy"
+    ],
+    "state": null,
+    "official_link": "https://www.nabard.org/",
+    "source": "nabard"
+  },
+  {
+    "scheme_name": "Blue Revolution (Fisheries Development)",
+    "summary": "Enhances fisheries production and infrastructure.",
+    "eligibility": "Fish farmers, fishers",
+    "benefits": "Support for hatcheries, boats, infrastructure",
+    "tags": [
+      "fisheries",
+      "aquaculture",
+      "infrastructure"
+    ],
+    "state": null,
+    "official_link": "https://dof.gov.in/",
+    "source": "dof.gov.in"
+  },
+  {
+    "scheme_name": "Integrated Scheme on Agricultural Marketing (ISAM)",
+    "summary": "Supports market reforms and infrastructure for agricultural marketing.",
+    "eligibility": "Farmers/market stakeholders (indirect farmer benefit)",
+    "benefits": "Marketing infrastructure support and improvements",
+    "tags": [
+      "marketing",
+      "market infrastructure",
+      "mandi"
+    ],
+    "state": null,
+    "official_link": "https://dmi.gov.in/",
+    "source": "dmi.gov.in"
+  },
+  {
+    "scheme_name": "Pradhan Mantri Kisan Rail",
+    "summary": "Supports rail transport of perishables (logistics for farmers).",
+    "eligibility": "Farmers/FPOs/transporters (indirect)",
+    "benefits": "Faster transport for perishables",
+    "tags": [
+      "logistics",
+      "transport",
+      "perishables",
+      "rail"
+    ],
+    "state": null,
+    "official_link": "https://indianrailways.gov.in/",
+    "source": "indianrailways.gov.in"
+  },
+  {
+    "scheme_name": "National Mission on Micro Irrigation (legacy micro-irrigation support)",
+    "summary": "Encourages adoption of micro irrigation systems like drip and sprinkler.",
+    "eligibility": "Farmers (as per state implementation)",
+    "benefits": "Subsidy for drip/sprinkler systems",
+    "tags": [
+      "micro irrigation",
+      "drip",
+      "sprinkler"
+    ],
+    "state": null,
+    "official_link": "https://pmksy.gov.in/",
+    "source": "pmksy.gov.in"
+  },
+  {
+    "scheme_name": "Per Drop More Crop (PDMC)",
+    "summary": "Promotes micro-irrigation and efficient water use for crops.",
+    "eligibility": "Farmers (as per state guidelines)",
+    "benefits": "Subsidy/assistance for drip and sprinkler systems",
+    "tags": [
+      "water",
+      "drip",
+      "sprinkler",
+      "micro irrigation"
+    ],
+    "state": null,
+    "official_link": "https://pmksy.gov.in/",
+    "source": "pmksy.gov.in"
+  },
+  {
+    "scheme_name": "Watershed Development Component of PMKSY (WDC-PMKSY)",
+    "summary": "Supports watershed development for water and soil conservation.",
+    "eligibility": "Farmers in watershed project areas",
+    "benefits": "Soil and water conservation structures and treatments",
+    "tags": [
+      "watershed",
+      "soil conservation",
+      "water"
+    ],
+    "state": null,
+    "official_link": "https://pmksy.gov.in/",
+    "source": "pmksy.gov.in"
+  },
+  {
+    "scheme_name": "Rural Infrastructure Development Fund (RIDF)",
+    "summary": "Supports rural infrastructure including irrigation and roads (indirect farmer benefit).",
+    "eligibility": "State governments/implementing agencies",
+    "benefits": "Low-cost funding for rural infrastructure projects",
+    "tags": [
+      "infrastructure",
+      "rural development",
+      "irrigation"
+    ],
+    "state": null,
+    "official_link": "https://www.nabard.org/",
+    "source": "nabard"
+  },
+  {
+    "scheme_name": "Livestock Insurance Scheme",
+    "summary": "Provides insurance coverage for livestock to reduce farmer risk.",
+    "eligibility": "Livestock owners/farmers (as per scheme)",
+    "benefits": "Insurance cover for cattle/livestock",
+    "tags": [
+      "livestock",
+      "insurance",
+      "risk"
+    ],
+    "state": null,
+    "official_link": "https://dahd.nic.in/",
+    "source": "dahd.nic.in"
+  },
+  {
+    "scheme_name": "Pashu Kisan Credit Card (Pashu KCC)",
+    "summary": "Credit support for animal husbandry and dairy farmers.",
+    "eligibility": "Dairy/animal husbandry farmers",
+    "benefits": "Credit for livestock-related needs",
+    "tags": [
+      "loan",
+      "credit",
+      "dairy",
+      "animal husbandry"
+    ],
+    "state": null,
+    "official_link": "https://www.nabard.org/",
+    "source": "nabard"
+  },
+  {
+    "scheme_name": "National Programme for Dairy Development (NPDD)",
+    "summary": "Improves dairy infrastructure and productivity.",
+    "eligibility": "Dairy sector stakeholders and farmers via cooperatives",
+    "benefits": "Support for dairy infrastructure and services",
+    "tags": [
+      "dairy",
+      "infrastructure",
+      "productivity"
+    ],
+    "state": null,
+    "official_link": "https://dahd.nic.in/",
+    "source": "dahd.nic.in"
+  },
+  {
+    "scheme_name": "Rashtriya Krishi Vikas Yojana - Soil Health component (program cluster)",
+    "summary": "Supports soil health and farm interventions under state plans.",
+    "eligibility": "Farmers via state agriculture projects",
+    "benefits": "Soil health and productivity interventions",
+    "tags": [
+      "soil",
+      "productivity",
+      "state plans"
+    ],
+    "state": null,
+    "official_link": "https://rkvy.nic.in/",
+    "source": "rkvy.nic.in"
+  },
+  {
+    "scheme_name": "Agriculture Technology Management Agency (ATMA)",
+    "summary": "Strengthens extension services and farmer trainings.",
+    "eligibility": "Farmers via district extension programs",
+    "benefits": "Training, exposure visits, advisory support",
+    "tags": [
+      "extension",
+      "training",
+      "advisory"
+    ],
+    "state": null,
+    "official_link": "https://agricoop.nic.in/",
+    "source": "agricoop.nic.in"
+  },
+  {
+    "scheme_name": "Kisan Call Centre (KCC - Advisory Service)",
+    "summary": "Phone-based farmer advisory service for farming queries.",
+    "eligibility": "Farmers",
+    "benefits": "Free/low-cost expert agriculture advice via call center",
+    "tags": [
+      "advisory",
+      "helpline",
+      "support"
+    ],
+    "state": null,
+    "official_link": "https://www.manage.gov.in/kcc/",
+    "source": "manage.gov.in"
+  },
+  {
+    "scheme_name": "PM Gati Shakti (Indirect agriculture logistics support)",
+    "summary": "Improves infrastructure connectivity (indirect support to farmers).",
+    "eligibility": "National infrastructure projects (indirect)",
+    "benefits": "Better connectivity and logistics",
+    "tags": [
+      "infrastructure",
+      "logistics",
+      "connectivity"
+    ],
+    "state": null,
+    "official_link": "https://gati-shakti.gov.in/",
+    "source": "gati-shakti.gov.in"
+  },
+  {
+    "scheme_name": "National Rural Drinking Water Programme (NRDWP)",
+    "summary": "Supports drinking water access in rural areas (indirect).",
+    "eligibility": "Rural households",
+    "benefits": "Rural drinking water infrastructure",
+    "tags": [
+      "rural",
+      "water",
+      "infrastructure"
+    ],
+    "state": null,
+    "official_link": "https://jalshakti-ddws.gov.in/",
+    "source": "jalshakti-ddws.gov.in"
+  },
+  {
+    "scheme_name": "Jal Jeevan Mission (JJM)",
+    "summary": "Provides functional household tap connections in rural areas (indirect).",
+    "eligibility": "Rural households",
+    "benefits": "Tap water connections",
+    "tags": [
+      "water",
+      "rural",
+      "infrastructure"
+    ],
+    "state": null,
+    "official_link": "https://jaljeevanmission.gov.in/",
+    "source": "jaljeevanmission.gov.in"
+  },
+  {
+    "scheme_name": "Pradhan Mantri Mudra Yojana (PMMY)",
+    "summary": "Collateral-free loans for micro enterprises including agri allied businesses.",
+    "eligibility": "Small businesses, entrepreneurs including agri allied activities",
+    "benefits": "Loans under Shishu/Kishor/Tarun categories",
+    "tags": [
+      "loan",
+      "business",
+      "entrepreneurship"
+    ],
+    "state": null,
+    "official_link": "https://www.mudra.org.in/",
+    "source": "mudra.org.in"
+  },
+  {
+    "scheme_name": "Stand Up India Scheme",
+    "summary": "Loans for SC/ST and women entrepreneurs including rural/agri enterprises.",
+    "eligibility": "SC/ST and women entrepreneurs (as per criteria)",
+    "benefits": "Bank loans for greenfield enterprises",
+    "tags": [
+      "loan",
+      "women",
+      "scst",
+      "entrepreneurship"
+    ],
+    "state": null,
+    "official_link": "https://www.standupmitra.in/",
+    "source": "standupmitra.in"
+  },
+  {
+    "scheme_name": "PM SVANidhi (Street Vendor support)",
+    "summary": "Credit support for street vendors (indirect, rural marketing).",
+    "eligibility": "Street vendors",
+    "benefits": "Working capital loans",
+    "tags": [
+      "loan",
+      "microcredit",
+      "vendors"
+    ],
+    "state": null,
+    "official_link": "https://pmsvanidhi.mohua.gov.in/",
+    "source": "pmsvanidhi.mohua.gov.in"
+  },
+  {
+    "scheme_name": "National Cooperative Development Corporation (NCDC) Assistance Schemes",
+    "summary": "Supports cooperatives for agro processing, storage and marketing.",
+    "eligibility": "Cooperatives, farmer groups",
+    "benefits": "Financial assistance for cooperative development",
+    "tags": [
+      "cooperatives",
+      "storage",
+      "processing",
+      "finance"
+    ],
+    "state": null,
+    "official_link": "https://www.ncdc.in/",
+    "source": "ncdc.in"
+  },
+  {
+    "scheme_name": "Integrated Scheme for Development of Food Processing Sector (State-level variants)",
+    "summary": "Support for processing units and value addition initiatives (varies).",
+    "eligibility": "Food processing enterprises",
+    "benefits": "Subsidies/support for processing facilities",
+    "tags": [
+      "processing",
+      "value addition",
+      "state"
+    ],
+    "state": null,
+    "official_link": "https://mofpi.gov.in/",
+    "source": "mofpi.gov.in"
+  },
+  {
+    "scheme_name": "Integrated Nutrient Management (INM) Promotion (Program cluster)",
+    "summary": "Encourages balanced use of organic/inorganic fertilizers.",
+    "eligibility": "Farmers",
+    "benefits": "Soil health improvement interventions",
+    "tags": [
+      "nutrients",
+      "fertilizer",
+      "soil"
+    ],
+    "state": null,
+    "official_link": "https://soilhealth.dac.gov.in/",
+    "source": "soilhealth.dac.gov.in"
+  },
+  {
+    "scheme_name": "National Food Processing Mission (State-level mission variants)",
+    "summary": "Promotes food processing units and agro-based enterprises (varies by state).",
+    "eligibility": "Entrepreneurs, farmer groups",
+    "benefits": "Support for processing and marketing",
+    "tags": [
+      "food processing",
+      "entrepreneurship",
+      "state"
+    ],
+    "state": null,
+    "official_link": "https://mofpi.gov.in/",
+    "source": "mofpi.gov.in"
+  },
+  {
+    "scheme_name": "Pradhan Mantri Krishi Vikas Yojana (Umbrella reference for agri programs)",
+    "summary": "Umbrella initiatives supporting agriculture development (varies).",
+    "eligibility": "Farmers via state programs",
+    "benefits": "Support through multiple components",
+    "tags": [
+      "agriculture development",
+      "umbrella"
+    ],
+    "state": null,
+    "official_link": "https://dac.gov.in/",
+    "source": "dac.gov.in"
+  },
+  {
+    "scheme_name": "PM Vishwakarma (Artisan support; includes rural tool support)",
+    "summary": "Supports artisans and craftspeople with training and financial support.",
+    "eligibility": "Artisans and craftspeople (indirect rural benefit)",
+    "benefits": "Skill training and credit support",
+    "tags": [
+      "skills",
+      "tools",
+      "credit"
+    ],
+    "state": null,
+    "official_link": "https://pmvishwakarma.gov.in/",
+    "source": "pmvishwakarma.gov.in"
+  },
+  {
+    "scheme_name": "National Scheme on Welfare of Fishermen (NSWF)",
+    "summary": "Welfare support for fishermen community.",
+    "eligibility": "Fishermen",
+    "benefits": "Housing, saving-cum-relief, insurance etc. (as applicable)",
+    "tags": [
+      "fishermen",
+      "welfare",
+      "insurance"
+    ],
+    "state": null,
+    "official_link": "https://dof.gov.in/",
+    "source": "dof.gov.in"
+  },
+  {
+    "scheme_name": "Integrated Development of Wildlife Habitats (Indirect agri relevance)",
+    "summary": "Conservation support (indirect).",
+    "eligibility": "As per program",
+    "benefits": "Habitat development",
+    "tags": [
+      "environment",
+      "conservation"
+    ],
+    "state": null,
+    "official_link": "https://moef.gov.in/",
+    "source": "moef.gov.in"
+  },
+  {
+    "scheme_name": "National Mission on Beekeeping (Apiculture Support Programs)",
+    "summary": "Supports beekeeping training, equipment and market development.",
+    "eligibility": "Beekeepers and farmers",
+    "benefits": "Support for beekeeping equipment and training",
+    "tags": [
+      "beekeeping",
+      "honey",
+      "equipment",
+      "training"
+    ],
+    "state": null,
+    "official_link": "https://nbb.gov.in/",
+    "source": "nbb.gov.in"
+  },
+  {
+    "scheme_name": "Fisheries and Aquaculture Infrastructure Development Fund (FIDF)",
+    "summary": "Provides financing for fisheries infrastructure including cold chain.",
+    "eligibility": "Fish farmers, entrepreneurs via projects",
+    "benefits": "Funding/financing support for fisheries infra",
+    "tags": [
+      "fisheries",
+      "infrastructure",
+      "finance"
+    ],
+    "state": null,
+    "official_link": "https://dof.gov.in/",
+    "source": "dof.gov.in"
+  },
+  {
+    "scheme_name": "National Mission on Food Security through Integrated Cold Chain (Program cluster)",
+    "summary": "Promotes food security via storage and cold chain infrastructure.",
+    "eligibility": "Enterprises and farmer groups via projects",
+    "benefits": "Cold chain and storage support",
+    "tags": [
+      "cold storage",
+      "food security",
+      "infrastructure"
+    ],
+    "state": null,
+    "official_link": "https://mofpi.gov.in/",
+    "source": "mofpi.gov.in"
+  },
+  {
+    "scheme_name": "Pradhan Mantri Kisan Shakti Yojana (Generic reference for energy support programs)",
+    "summary": "Energy-related farm support programs (varies).",
+    "eligibility": "Farmers as per specific components",
+    "benefits": "Energy and equipment support",
+    "tags": [
+      "energy",
+      "equipment",
+      "support"
+    ],
+    "state": null,
+    "official_link": "https://mnre.gov.in/",
+    "source": "mnre.gov.in"
+  },
+  {
+    "scheme_name": "Rural Self Employment Training Institutes (RSETI) Program",
+    "summary": "Entrepreneurship training support for rural youth including agri enterprises.",
+    "eligibility": "Rural youth and potential entrepreneurs",
+    "benefits": "Training and capacity building",
+    "tags": [
+      "training",
+      "entrepreneurship",
+      "rural"
+    ],
+    "state": null,
+    "official_link": "https://niesbud.nic.in/",
+    "source": "public_info"
+  },
+  {
+    "scheme_name": "Integrated Farming Systems (IFS) Promotion Programs",
+    "summary": "Promotes integrated farming systems combining crops, livestock, fisheries.",
+    "eligibility": "Farmers via extension programs",
+    "benefits": "Training and integrated model support",
+    "tags": [
+      "integrated farming",
+      "livestock",
+      "fisheries"
+    ],
+    "state": null,
+    "official_link": "https://icar.gov.in/",
+    "source": "icar.gov.in"
+  },
+  {
+    "scheme_name": "ICAR Krishi Vigyan Kendra (KVK) Advisory & Demonstration Support",
+    "summary": "Farm science centers providing training, demos and advisories.",
+    "eligibility": "Farmers",
+    "benefits": "Training, demonstrations, technology dissemination",
+    "tags": [
+      "training",
+      "advisory",
+      "KVK",
+      "extension"
+    ],
+    "state": null,
+    "official_link": "https://icar.gov.in/",
+    "source": "icar.gov.in"
+  },
+  {
+    "scheme_name": "National Innovation in Climate Resilient Agriculture (NICRA)",
+    "summary": "Supports climate-resilient agriculture research and demonstrations.",
+    "eligibility": "Farmers in project areas (indirect)",
+    "benefits": "Climate resilience interventions",
+    "tags": [
+      "climate",
+      "resilience",
+      "research"
+    ],
+    "state": null,
+    "official_link": "https://icar.gov.in/",
+    "source": "icar.gov.in"
+  },
+  {
+    "scheme_name": "Sampoorna Krishi Vikas Yojana (State variants)",
+    "summary": "State-level agriculture development schemes under different names.",
+    "eligibility": "Farmers (varies by state)",
+    "benefits": "Subsidies and development support",
+    "tags": [
+      "state scheme",
+      "subsidy",
+      "agriculture development"
+    ],
+    "state": null,
+    "official_link": "https://www.india.gov.in/",
+    "source": "india.gov.in"
+  },
+  {
+    "scheme_name": "Horticulture Cluster Development Programme (CDP)",
+    "summary": "Promotes cluster-based horticulture value chain development.",
+    "eligibility": "Farmers and FPOs in cluster areas",
+    "benefits": "Cluster support for horticulture improvements",
+    "tags": [
+      "horticulture",
+      "clusters",
+      "value chain"
+    ],
+    "state": null,
+    "official_link": "https://midh.gov.in/",
+    "source": "midh.gov.in"
+  },
+  {
+    "scheme_name": "National Mission on Post Harvest Management (Program cluster)",
+    "summary": "Supports post-harvest management infrastructure and practices.",
+    "eligibility": "Farmers/FPOs/entrepreneurs via projects",
+    "benefits": "Storage, grading, packing support",
+    "tags": [
+      "post-harvest",
+      "storage",
+      "grading"
+    ],
+    "state": null,
+    "official_link": "https://dac.gov.in/",
+    "source": "dac.gov.in"
+  },
+  {
+    "scheme_name": "Pradhan Mantri Agriculture Export Policy Support (Program cluster)",
+    "summary": "Promotes export of agricultural commodities and farmer income.",
+    "eligibility": "Farmers, exporters (indirect)",
+    "benefits": "Market access and export promotion support",
+    "tags": [
+      "export",
+      "market access",
+      "policy"
+    ],
+    "state": null,
+    "official_link": "https://commerce.gov.in/",
+    "source": "commerce.gov.in"
+  },
+  {
+    "scheme_name": "National Mission for Protein Supplements (Pulses Promotion Programs)",
+    "summary": "Supports pulses production and productivity improvements.",
+    "eligibility": "Farmers in notified areas",
+    "benefits": "Seeds and demonstrations support",
+    "tags": [
+      "pulses",
+      "seeds",
+      "productivity"
+    ],
+    "state": null,
+    "official_link": "https://nfsm.gov.in/",
+    "source": "nfsm.gov.in"
+  },
+  {
+    "scheme_name": "Pradhan Mantri Kisan Credit Scorecard (Digital credit initiatives)",
+    "summary": "Digital initiatives for better credit delivery (indirect).",
+    "eligibility": "Farmers",
+    "benefits": "Improved access to credit services",
+    "tags": [
+      "credit",
+      "digital",
+      "finance"
+    ],
+    "state": null,
+    "official_link": "https://www.nabard.org/",
+    "source": "nabard"
+  },
+  {
+    "scheme_name": "Pradhan Mantri Kaushal Vikas Yojana (PMKVY)",
+    "summary": "Skill development program useful for rural/agri allied employability.",
+    "eligibility": "Youth and eligible candidates",
+    "benefits": "Skill training and certification",
+    "tags": [
+      "skills",
+      "training",
+      "employment"
+    ],
+    "state": null,
+    "official_link": "https://pmkvyofficial.org/",
+    "source": "pmkvyofficial.org"
+  },
+  {
+    "scheme_name": "National Apprenticeship Promotion Scheme (NAPS)",
+    "summary": "Supports apprenticeship training and skill development.",
+    "eligibility": "Eligible candidates",
+    "benefits": "Apprenticeship support",
+    "tags": [
+      "skills",
+      "apprenticeship"
+    ],
+    "state": null,
+    "official_link": "https://apprenticeshipindia.gov.in/",
+    "source": "apprenticeshipindia.gov.in"
+  },
+  {
+    "scheme_name": "One District One Product (ODOP)",
+    "summary": "Promotes district-level product specialization for value addition and markets.",
+    "eligibility": "Producers and local enterprises",
+    "benefits": "Support for branding, processing and marketing",
+    "tags": [
+      "value addition",
+      "branding",
+      "district"
+    ],
+    "state": null,
+    "official_link": "https://odop.gov.in/",
+    "source": "odop.gov.in"
+  },
+  {
+    "scheme_name": "Startup India Seed Fund Scheme (SISFS)",
+    "summary": "Seed funding for startups including agri-tech ventures (indirect).",
+    "eligibility": "Eligible startups",
+    "benefits": "Seed fund support",
+    "tags": [
+      "startup",
+      "seed fund",
+      "agritech"
+    ],
+    "state": null,
+    "official_link": "https://www.startupindia.gov.in/",
+    "source": "startupindia.gov.in"
+  },
+  {
+    "scheme_name": "Atal Innovation Mission (AIM)",
+    "summary": "Promotes innovation ecosystems including agri innovation (indirect).",
+    "eligibility": "Institutions and innovators",
+    "benefits": "Innovation support",
+    "tags": [
+      "innovation",
+      "agritech"
+    ],
+    "state": null,
+    "official_link": "https://aim.gov.in/",
+    "source": "aim.gov.in"
+  },
+  {
+    "scheme_name": "PM Gati Shakti - Logistics Efficiency Programs (Indirect)",
+    "summary": "Improves logistics efficiency supporting farm-to-market movement.",
+    "eligibility": "Indirect",
+    "benefits": "Faster movement of produce",
+    "tags": [
+      "logistics",
+      "transport"
+    ],
+    "state": null,
+    "official_link": "https://gati-shakti.gov.in/",
+    "source": "gati-shakti.gov.in"
+  },
+  {
+    "scheme_name": "Rural Backyard Poultry Distribution Programs (State variants)",
+    "summary": "Supports poultry rearing and livelihood in rural areas (varies by state).",
+    "eligibility": "Rural households/farmers",
+    "benefits": "Chicks and support for poultry",
+    "tags": [
+      "poultry",
+      "livelihood",
+      "state scheme"
+    ],
+    "state": null,
+    "official_link": "https://dahd.nic.in/",
+    "source": "dahd.nic.in"
+  },
+  {
+    "scheme_name": "Integrated Development of Small Ruminants and Rabbit (Program variants)",
+    "summary": "Supports goatery/sheep/rabbit farming development.",
+    "eligibility": "Farmers/entrepreneurs",
+    "benefits": "Support for small ruminants",
+    "tags": [
+      "goatery",
+      "sheep",
+      "livelihood"
+    ],
+    "state": null,
+    "official_link": "https://dahd.nic.in/",
+    "source": "dahd.nic.in"
+  },
+  {
+    "scheme_name": "Pradhan Mantri Kisan Drone Promotion (Programs/initiatives)",
+    "summary": "Promotes drone usage for agriculture services and spraying (program-driven).",
+    "eligibility": "Farmers/FPOs/service providers",
+    "benefits": "Drone adoption support and training",
+    "tags": [
+      "drones",
+      "technology",
+      "spraying"
+    ],
+    "state": null,
+    "official_link": "https://agricoop.nic.in/",
+    "source": "agricoop.nic.in"
+  },
+  {
+    "scheme_name": "National Programme on Organic Production (NPOP)",
+    "summary": "Certification framework for organic exports and production.",
+    "eligibility": "Organic producers",
+    "benefits": "Certification and standards support",
+    "tags": [
+      "organic",
+      "certification",
+      "export"
+    ],
+    "state": null,
+    "official_link": "https://apeda.gov.in/",
+    "source": "apeda.gov.in"
+  },
+  {
+    "scheme_name": "APEDA Agriculture Export Promotion Support (Programs)",
+    "summary": "Supports export promotion of agricultural products.",
+    "eligibility": "Exporters/farmer groups (indirect)",
+    "benefits": "Market access and export promotion",
+    "tags": [
+      "export",
+      "market access"
+    ],
+    "state": null,
+    "official_link": "https://apeda.gov.in/",
+    "source": "apeda.gov.in"
+  },
+  {
+    "scheme_name": "SPICED Scheme for Spices Board (Support programs)",
+    "summary": "Supports spice cultivation and value chain improvements.",
+    "eligibility": "Spice farmers and stakeholders",
+    "benefits": "Assistance for spices sector (as per board)",
+    "tags": [
+      "spices",
+      "horticulture",
+      "value chain"
+    ],
+    "state": null,
+    "official_link": "https://www.indianspices.com/",
+    "source": "indianspices.com"
+  },
+  {
+    "scheme_name": "Coffee Board Development Programs",
+    "summary": "Supports coffee growers through extension and development initiatives.",
+    "eligibility": "Coffee farmers",
+    "benefits": "Support for coffee cultivation and processing (as per board)",
+    "tags": [
+      "coffee",
+      "plantation",
+      "extension"
+    ],
+    "state": null,
+    "official_link": "https://coffeeboard.gov.in/",
+    "source": "coffeeboard.gov.in"
+  },
+  {
+    "scheme_name": "Tea Board Development Schemes",
+    "summary": "Supports tea plantation sector and tea growers.",
+    "eligibility": "Tea growers",
+    "benefits": "Support for tea sector development (as per board)",
+    "tags": [
+      "tea",
+      "plantation",
+      "subsidy"
+    ],
+    "state": null,
+    "official_link": "https://www.teaboard.gov.in/",
+    "source": "teaboard.gov.in"
+  },
+  {
+    "scheme_name": "Coconut Development Board Schemes",
+    "summary": "Supports coconut cultivation and processing initiatives.",
+    "eligibility": "Coconut farmers and stakeholders",
+    "benefits": "Support for plantation, processing and value addition",
+    "tags": [
+      "coconut",
+      "plantation",
+      "processing"
+    ],
+    "state": null,
+    "official_link": "https://coconutboard.gov.in/",
+    "source": "coconutboard.gov.in"
+  },
+  {
+    "scheme_name": "Rubber Board Development Schemes",
+    "summary": "Supports rubber growers and rubber sector development.",
+    "eligibility": "Rubber growers",
+    "benefits": "Assistance for rubber cultivation (as per board)",
+    "tags": [
+      "rubber",
+      "plantation",
+      "support"
+    ],
+    "state": null,
+    "official_link": "https://rubberboard.gov.in/",
+    "source": "rubberboard.gov.in"
+  },
+  {
+    "scheme_name": "National Mission on Cotton (Technology Mission on Cotton - related)",
+    "summary": "Improves cotton productivity and quality through interventions.",
+    "eligibility": "Cotton farmers",
+    "benefits": "Support for improved practices and inputs (as applicable)",
+    "tags": [
+      "cotton",
+      "productivity",
+      "inputs"
+    ],
+    "state": null,
+    "official_link": "https://cotcorp.org.in/",
+    "source": "public_info"
+  },
+  {
+    "scheme_name": "Seed Village Programme (Program cluster)",
+    "summary": "Promotes quality seed production and distribution in villages.",
+    "eligibility": "Farmers participating in seed production programs",
+    "benefits": "Access to quality seeds and training",
+    "tags": [
+      "seeds",
+      "training",
+      "production"
+    ],
+    "state": null,
+    "official_link": "https://seednet.gov.in/",
+    "source": "seednet.gov.in"
+  },
+  {
+    "scheme_name": "National Seed Corporation (NSC) Support Programs",
+    "summary": "Provides quality seeds and seed-related services.",
+    "eligibility": "Farmers",
+    "benefits": "Quality seed availability and distribution",
+    "tags": [
+      "seeds",
+      "inputs"
+    ],
+    "state": null,
+    "official_link": "https://indiaseeds.com/",
+    "source": "indiaseeds.com"
+  },
+  {
+    "scheme_name": "National Mission on Agricultural Extension (Program cluster)",
+    "summary": "Improves extension outreach and farmer training programs.",
+    "eligibility": "Farmers",
+    "benefits": "Training and advisory support",
+    "tags": [
+      "extension",
+      "training"
+    ],
+    "state": null,
+    "official_link": "https://agricoop.nic.in/",
+    "source": "agricoop.nic.in"
+  },
+  {
+    "scheme_name": "Pradhan Mantri Kisan Credit Support for FPOs (Program variants)",
+    "summary": "Credit and support access through farmer producer organizations.",
+    "eligibility": "FPO members/farmer groups",
+    "benefits": "Better credit linkage and market support",
+    "tags": [
+      "FPO",
+      "credit",
+      "market linkage"
+    ],
+    "state": null,
+    "official_link": "https://sfacindia.com/",
+    "source": "sfacindia.com"
+  },
+  {
+    "scheme_name": "Pradhan Mantri Shram Yogi Maandhan (PMSYM)",
+    "summary": "Pension scheme for unorganized workers (indirect relevance for rural/agri labour families).",
+    "eligibility": "Unorganized workers meeting eligibility criteria",
+    "benefits": "Monthly pension after age threshold (as per scheme rules)",
+    "tags": [
+      "pension",
+      "social security",
+      "rural"
+    ],
+    "state": null,
+    "official_link": "https://maandhan.in/",
+    "source": "maandhan.in"
+  },
+  {
+    "scheme_name": "National Mission for Clean Ganga (NMCG) - Rural Impact",
+    "summary": "Water quality and river rejuvenation initiatives impacting agriculture indirectly.",
+    "eligibility": "Program-based (indirect)",
+    "benefits": "Improved water resources and sanitation",
+    "tags": [
+      "water",
+      "sanitation",
+      "environment"
+    ],
+    "state": null,
+    "official_link": "https://nmcg.nic.in/",
+    "source": "nmcg.nic.in"
+  },
+  {
+    "scheme_name": "PM Aajeevika - Self Employment & Training (NRLM components)",
+    "summary": "SHG-based self employment support in rural areas.",
+    "eligibility": "SHG members and eligible rural households",
+    "benefits": "Skill support, finance linkage, livelihood promotion",
+    "tags": [
+      "SHG",
+      "livelihood",
+      "training"
+    ],
+    "state": null,
+    "official_link": "https://aajeevika.gov.in/",
+    "source": "aajeevika.gov.in"
+  },
+  {
+    "scheme_name": "National Rural Economic Transformation Project (NRETP)",
+    "summary": "Strengthens rural enterprises and farmer collectives (NRLM-linked).",
+    "eligibility": "SHGs/producer groups as per project areas",
+    "benefits": "Enterprise development and market linkages",
+    "tags": [
+      "enterprise",
+      "market linkage",
+      "rural"
+    ],
+    "state": null,
+    "official_link": "https://aajeevika.gov.in/",
+    "source": "aajeevika.gov.in"
+  },
+  {
+    "scheme_name": "Pradhan Mantri Kisan SAMPADA Yojana - Food Safety & Quality Assurance Infrastructure",
+    "summary": "Supports infrastructure for quality and safety in food processing (indirect farmer benefit).",
+    "eligibility": "Food processing enterprises and stakeholders",
+    "benefits": "Infrastructure support for quality and safety systems",
+    "tags": [
+      "food processing",
+      "quality",
+      "infrastructure"
+    ],
+    "state": null,
+    "official_link": "https://mofpi.gov.in/",
+    "source": "mofpi.gov.in"
+  },
+  {
+    "scheme_name": "FSSAI Food Safety Training & Certification (FoSTaC)",
+    "summary": "Training program for food safety and hygiene (indirect to agri value chain).",
+    "eligibility": "Food handlers/entrepreneurs",
+    "benefits": "Food safety training and certification",
+    "tags": [
+      "training",
+      "food safety",
+      "certification"
+    ],
+    "state": null,
+    "official_link": "https://fssai.gov.in/",
+    "source": "fssai.gov.in"
+  },
+  {
+    "scheme_name": "PM Surya Ghar: Muft Bijli Yojana",
+    "summary": "Supports rooftop solar for households (indirect benefit for rural/farm households).",
+    "eligibility": "Eligible households as per guidelines",
+    "benefits": "Subsidy for rooftop solar installation",
+    "tags": [
+      "solar",
+      "electricity",
+      "subsidy"
+    ],
+    "state": null,
+    "official_link": "https://pmsuryaghar.gov.in/",
+    "source": "pmsuryaghar.gov.in"
+  },
+  {
+    "scheme_name": "PMEGP (Prime Minister’s Employment Generation Programme)",
+    "summary": "Credit-linked subsidy for setting up micro enterprises including agro-based units.",
+    "eligibility": "Individuals/entrepreneurs meeting PMEGP norms",
+    "benefits": "Subsidy + bank loan for enterprise setup",
+    "tags": [
+      "enterprise",
+      "loan",
+      "subsidy",
+      "MSME"
+    ],
+    "state": null,
+    "official_link": "https://www.kviconline.gov.in/pmegpeportal/",
+    "source": "kviconline.gov.in"
+  },
+  {
+    "scheme_name": "Credit Guarantee Fund Trust for Micro and Small Enterprises (CGTMSE)",
+    "summary": "Credit guarantee to support collateral-free loans for MSMEs (useful for agro enterprises).",
+    "eligibility": "MSMEs and eligible borrowers",
+    "benefits": "Collateral-free credit guarantee coverage",
+    "tags": [
+      "credit guarantee",
+      "MSME",
+      "loan"
+    ],
+    "state": null,
+    "official_link": "https://www.cgtmse.in/",
+    "source": "cgtmse.in"
+  },
+  {
+    "scheme_name": "National Mission on Interdisciplinary Cyber-Physical Systems (NM-ICPS)",
+    "summary": "Promotes innovation ecosystems (indirect agri-tech relevance).",
+    "eligibility": "Institutions/innovators",
+    "benefits": "Support for tech innovation",
+    "tags": [
+      "innovation",
+      "technology",
+      "agritech"
+    ],
+    "state": null,
+    "official_link": "https://dst.gov.in/",
+    "source": "dst.gov.in"
+  },
+  {
+    "scheme_name": "PM Digital Saksharta Abhiyan (PMGDISHA)",
+    "summary": "Digital literacy program for rural citizens.",
+    "eligibility": "Rural households and eligible candidates",
+    "benefits": "Basic digital literacy training",
+    "tags": [
+      "digital literacy",
+      "rural",
+      "training"
+    ],
+    "state": null,
+    "official_link": "https://www.pmgdisha.in/",
+    "source": "pmgdisha.in"
+  },
+  {
+    "scheme_name": "National Mission on Agriculture for Balanced Fertilization (Program Cluster)",
+    "summary": "Promotes balanced fertilizer usage through advisory and awareness programs.",
+    "eligibility": "Farmers",
+    "benefits": "Improved nutrient management and advisory support",
+    "tags": [
+      "fertilizer",
+      "nutrients",
+      "soil"
+    ],
+    "state": null,
+    "official_link": "https://soilhealth.dac.gov.in/",
+    "source": "soilhealth.dac.gov.in"
+  },
+  {
+    "scheme_name": "Fertilizer Subsidy & Direct Benefit Transfer (DBT) System",
+    "summary": "DBT system for fertilizer sales and subsidy transparency.",
+    "eligibility": "Farmers purchasing fertilizer at PoS enabled outlets",
+    "benefits": "Transparent subsidy mechanism",
+    "tags": [
+      "fertilizer",
+      "DBT",
+      "subsidy"
+    ],
+    "state": null,
+    "official_link": "https://www.fert.nic.in/",
+    "source": "fert.nic.in"
+  },
+  {
+    "scheme_name": "Sansad Adarsh Gram Yojana (SAGY)",
+    "summary": "Village development scheme for model village creation (indirect farmer benefit).",
+    "eligibility": "Villages adopted under SAGY",
+    "benefits": "Village development planning and improvements",
+    "tags": [
+      "village development",
+      "rural",
+      "infrastructure"
+    ],
+    "state": null,
+    "official_link": "https://saanjhi.gov.in/",
+    "source": "saanjhi.gov.in"
+  },
+  {
+    "scheme_name": "Mission Amrit Sarovar (Water Bodies Rejuvenation)",
+    "summary": "Rejuvenation of water bodies for water security (indirect agri benefit).",
+    "eligibility": "Community/village program",
+    "benefits": "Water conservation and storage",
+    "tags": [
+      "water conservation",
+      "ponds",
+      "rural"
+    ],
+    "state": null,
+    "official_link": "https://amritsarovar.gov.in/",
+    "source": "amritsarovar.gov.in"
+  }
+]
