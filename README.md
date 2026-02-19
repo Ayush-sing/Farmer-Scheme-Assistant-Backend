@@ -30,6 +30,15 @@ A modern AI-powered web app that helps Indian farmers discover relevant **govern
 
 ---
 
+## DEMO Link
+``` bash
+
+https://farmer-scheme-assistant-frontend.vercel.app/
+
+```
+
+---
+
 ## 🧠 Tech Stack
 
 ### Backend
